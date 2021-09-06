@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\bin\Debug\DDSupportedForm.exe.config
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\bin\Debug\DDSupportedForm.exe
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\bin\Debug\DDSupportedForm.pdb
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\bin\Debug\hm.NET.dll
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\bin\Debug\ImageProcessor.dll
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\bin\Debug\ImageProcessor.Plugins.WebP.dll
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\bin\Debug\ImageProcessor.xml
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\bin\Debug\ImageProcessor.Plugins.WebP.xml
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\obj\Debug\DDSupportedForm.DDForm.resources
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\obj\Debug\DDSupportedForm.Properties.Resources.resources
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\obj\Debug\DDSupportedForm.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\obj\Debug\DDSupportedForm.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\obj\Debug\DDSupportedForm.csproj.CopyComplete
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\obj\Debug\DDSupportedForm.exe
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\obj\Debug\DDSupportedForm.pdb

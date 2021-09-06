@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\bin\Release\DDSupportedForm.exe.config
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\bin\Release\DDSupportedForm.exe
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\bin\Release\DDSupportedForm.pdb
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\bin\Release\ImageProcessor.dll
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\bin\Release\ImageProcessor.Plugins.WebP.dll
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\bin\Release\ImageProcessor.xml
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\bin\Release\ImageProcessor.Plugins.WebP.xml
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\obj\Release\DDSupportedForm.DDForm.resources
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\obj\Release\DDSupportedForm.Properties.Resources.resources
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\obj\Release\DDSupportedForm.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\obj\Release\DDSupportedForm.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\obj\Release\DDSupportedForm.csproj.CopyComplete
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\obj\Release\DDSupportedForm.exe
+C:\Users\admin\source\repos\WindowsFormsApp3\DDSupportedForm\obj\Release\DDSupportedForm.pdb
